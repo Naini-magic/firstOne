@@ -1,3 +1,3 @@
 # firstOne
 this is my  first repository
-author --naini.
+author --naini (magic).
